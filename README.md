@@ -3,7 +3,6 @@
 # 👋 Hi, I'm **Abdulmohsen Alyousef**  
 
 💻 **Full-Stack Developer | Software Engineer | Cloud & DDD Enthusiast**  
-🌍 Based in **Bursa, Türkiye**  
 📧 [m.alyosef56@gmail.com](mailto:m.alyosef56@gmail.com)  
 
 ---
