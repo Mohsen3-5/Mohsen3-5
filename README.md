@@ -53,6 +53,11 @@ I’m a **motivated Full Stack Developer** with hands-on experience in **ASP.NET
 
 ## 🌟 Projects  
 
+- 🏗 **AsasKit – Modular DDD Kit for .NET**  
+  A fully modular, Domain-Driven Design–based kit for building enterprise-grade .NET applications.  
+  Includes **Identity**, **Tenancy**, **Messaging**, and **Core** modules with **EF Core**, **MediatR**, and **Clean Architecture** baked in.  
+  Designed for scalability, reusability, and developer productivity.  
+
 - ✈️ **JetZen – Private Jet Rental Platform**  
   Built booking services with **Angular (NgRx)** + **.NET** for seamless UX & secure transactions.  
 
