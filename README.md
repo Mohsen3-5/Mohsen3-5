@@ -1,50 +1,92 @@
-# 👋 Hi, I'm Abdulmohsen Alyousef
+<!-- Profile README for Abdulmohsen Alyousef -->
 
-💻 **Engineer | Full-Stack Developer | Electrical & Electronics Enthusiast**  
-I’m passionate about building **scalable applications**, exploring **industrial automation**, and creating projects that bridge the gap between **software and hardware**.
+# 👋 Hi, I'm **Abdulmohsen Alyousef**  
 
----
-
-## 🚀 About Me
-- 🔭 Currently working on: **AsasKit (.NET Modular DDD Kit)** & **CoolTrack Pro (Industrial Cooling Project Tracker)**  
-- 🌱 Learning: **Docker, Kubernetes, Blockchain, and Azure Cloud**  
-- ⚡ Interests: **Industrial automation, SCADA, IoT, and high-performance web apps**  
-- 🛠 Tech lover who thrives on **clean architecture**, **multi-language projects**, and **real-world impact**.
+💻 **Full-Stack Developer | Software Engineer | Cloud & DDD Enthusiast**  
+🌍 Based in **Bursa, Türkiye**  
+📧 [m.alyosef56@gmail.com](mailto:m.alyosef56@gmail.com)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me  
+I’m a **motivated Full Stack Developer** with hands-on experience in **ASP.NET** and **Angular**, passionate about building scalable applications and bridging clean architecture with real-world impact.  
 
-**Languages & Frameworks:**  
-`C#` · `.NET 9` · `ASP.NET Core` · `EF Core` · `Python` · `Flask` · `Node.js` · `Laravel` · `PHP` · `React` · `Angular` · `TypeScript`
-
-**Databases & Tools:**  
-`SQL Server` · `PostgreSQL` · `SQLite` · `Redis` · `Docker` · `Kubernetes`
-
-**Industrial & Engineering:**  
-`EPLAN` · `Siemens PLC (TIA Portal)` · `Carel 1Tool` · `Automation Systems`
+- 🔭 Currently working at **Hyper Company** as a Full-Stack Developer  
+- 🌱 Exploring **DDD, CQRS, and Clean Architecture** in depth  
+- ☁️ Skilled in **Microsoft Azure** for cloud-native solutions  
+- 🤝 Collaborative team player with Agile & DevOps experience  
+- ⚡ Fun fact: I thrive on mixing **software engineering** with **electronics & automation**  
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## 🛠️ Tech Arsenal  
+
+**Languages**  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+
+**Frameworks & Tools**  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
+![ABP](https://img.shields.io/badge/ABP_Framework-1C3D5A?style=for-the-badge&logo=dotnet&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![NgRx](https://img.shields.io/badge/NgRx-B7178C?style=for-the-badge&logo=ngrx&logoColor=white)  
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)  
+
+**Other Skills**  
+`DDD` · `CQRS` · `SOLID` · `Agile` · `DevOps` · `CI/CD`  
+`SQL` · `NoSQL` · `Git` · `Bootstrap` · `jQuery`  
 
 ---
 
-## ✨ Featured Projects
-🔹 [**AsasKit**](#) – Modular DDD Kit for .NET developers  
-🔹 [**CoolTrack Pro**](#) – Python Flask system for refrigeration project tracking  
-🔹 [**STOCKKA**](#) – Inventory + Sales Tracker for small businesses  
-🔹 [**ESP32-S3 Relay Control**](#) – Web-controlled relay system with ESP32  
+## 💼 Experience  
+
+- **Hyper Company** – *Full Stack Developer* (2024 – Present)  
+  🛠 Building scalable & maintainable apps with **Angular + .NET** using **DDD principles**.  
+
+- **NBS Venture** – *Full Stack Developer* (2023 – 2024)  
+  ☁️ Delivered secure **Azure solutions**, automated testing, and built a real-time control panel for driver tracking.  
 
 ---
 
-## 🌍 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)  
-[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](https://medium.com/@YOUR_USERNAME)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## 🌟 Projects  
+
+- ✈️ **JetZen – Private Jet Rental Platform**  
+  Built booking services with **Angular (NgRx)** + **.NET** for seamless UX & secure transactions.  
+
+- 📦 **Comprehensive Management Platform**  
+  Designed an **order management system** with real-time driver tracking, backend processes, and responsive Angular frontend.  
 
 ---
 
-⭐ _“Code is like humor. When you have to explain it, it’s bad.”_  
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsen3-5&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen3-5&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen3-5&theme=tokyonight)  
+
+---
+
+## 🌍 Languages  
+🇬🇧 English – Professional  
+🇸🇦 Arabic – Native  
+🇹🇷 Turkish – Intermediate  
+
+---
+
+## 🎓 Certifications  
+- Huawei Talent Online – **HCIA-Datacom**  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-alyosef/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohsen3-5)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.alyosef56@gmail.com)  
+
+---
+
+✨ _“Clean architecture isn’t a trend. It’s a lifestyle.”_ ✨
