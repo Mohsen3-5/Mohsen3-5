@@ -68,7 +68,6 @@ I’m a **motivated Full Stack Developer** with hands-on experience in **ASP.NET
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohsen3-5&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohsen3-5&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mohsen3-5&theme=tokyonight)  
 
