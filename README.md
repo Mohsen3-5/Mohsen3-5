@@ -75,7 +75,7 @@ I’m a **motivated Full Stack Developer** with hands-on experience in **ASP.NET
 ## 🌍 Languages  
 🇬🇧 English – Professional  
 🇸🇦 Arabic – Native  
-🇹🇷 Turkish – Intermediate  
+🇹🇷 Turkish – Professional  
 
 ---
 
